@@ -1,0 +1,44 @@
+2025-10-17 00:53:28,295 - INFO - Attempting to login as your_bot_username_here...
+2025-10-17 00:53:29,849 - INFO - Login successful!
+2025-10-17 00:53:29,849 - INFO - Loading duplicate authors from duplicate_authors.json...
+2025-10-17 00:53:29,857 - INFO - Loaded 3949 entries from JSON
+2025-10-17 00:53:29,857 - INFO - Processing first 10 works only (test mode)
+2025-10-17 00:53:29,857 - INFO - Found 10 works to process
+2025-10-17 00:53:29,857 - INFO - Mode: DRY RUN (no actual changes)
+2025-10-17 00:53:29,857 - INFO - Starting processing...
+
+2025-10-17 00:53:29,857 - INFO - Progress: 1/10
+2025-10-17 00:53:29,857 - INFO - 
+Processing work: OL26463951W
+2025-10-17 00:53:30,227 - INFO - Original author count: 2
+2025-10-17 00:53:30,228 - INFO - Removed 1 duplicate author(s)
+2025-10-17 00:53:30,228 - INFO - New author count: 1
+2025-10-17 00:53:30,228 - INFO - [DRY RUN] Would update work OL26463951W
+2025-10-17 00:53:32,228 - INFO - Progress: 2/10
+2025-10-17 00:53:32,229 - INFO - 
+Processing work: OL27958876W
+2025-10-17 00:53:32,630 - INFO - Original author count: 2
+2025-10-17 00:53:32,630 - INFO - Removed 1 duplicate author(s)
+2025-10-17 00:53:32,630 - INFO - New author count: 1
+2025-10-17 00:53:32,630 - INFO - [DRY RUN] Would update work OL27958876W
+2025-10-17 00:53:34,631 - INFO - Progress: 3/10
+2025-10-17 00:53:34,631 - INFO - 
+Processing work: OL28486608W
+2025-10-17 00:53:35,031 - INFO - Original author count: 2
+2025-10-17 00:53:35,031 - INFO - Removed 1 duplicate author(s)
+2025-10-17 00:53:35,031 - INFO - New author count: 1
+2025-10-17 00:53:35,031 - INFO - [DRY RUN] Would update work OL28486608W
+2025-10-17 00:53:37,032 - INFO - Progress: 4/10
+2025-10-17 00:53:37,032 - INFO - 
+Processing work: OL28486625W
+2025-10-17 00:53:37,435 - INFO - Original author count: 2
+2025-10-17 00:53:37,435 - INFO - Removed 1 duplicate author(s)
+2025-10-17 00:53:37,435 - INFO - New author count: 1
+2025-10-17 00:53:37,435 - INFO - [DRY RUN] Would update work OL28486625W
+2025-10-17 00:53:39,436 - INFO - Progress: 5/10
+2025-10-17 00:53:39,436 - INFO - 
+Processing work: OL28971128W
+2025-10-17 00:53:39,837 - INFO - Original author count: 3
+2025-10-17 00:53:39,838 - INFO - Removed 1 duplicate author(s)
+2025-10-17 00:53:39,838 - INFO - New author count: 2
+2025-10-17 00:53:39,838 - INFO - [DRY RUN] Would update work OL28971128W
